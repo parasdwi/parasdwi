@@ -82,7 +82,7 @@
 <a href="https://twitter.com/@ParasDw41862487" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-<a href="https://https://leetcode.com/paras1915/" target="_blank">
+<a href="https://leetcode.com/paras1915/" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=#e2931e alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
