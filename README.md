@@ -87,7 +87,6 @@
 ![Paras's Stats](https://github-readme-stats.vercel.app/api?username=parasdwi&theme=dark&show_icons=true&hide_border=true&count_private=true&align=center)
 ![parasdwi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=parasdwi&theme=dark&hide_border=true&align=center)
 ![parasdwi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parasdwi&theme=dark&show_icons=true&hide_border=true&layout=compact&align=center)
-![trophy](https://github-profile-trophy.vercel.app/?username=parasdwi&theme=onedark)
 
 <br/>  
 
